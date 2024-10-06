@@ -47,7 +47,8 @@ Developed a Python-based automated system that scrapes job listings, parses job 
        - **Log Application Status**
      - **If Not Eligible**: Log Reason
    - **End**
-   ![image](https://github.com/user-attachments/assets/8a7ad45e-c37c-4b59-b644-566d74b767f8)
+     ![image](https://github.com/user-attachments/assets/ba30c899-8a48-4fa4-be27-5e58ef544c0c)
+
 
 2. **Architecture Diagram**: This diagram should show the system architecture, including components like:
    - Web Scraping Module
