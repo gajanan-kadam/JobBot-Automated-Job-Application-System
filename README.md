@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5a5db72-1591-4442-8d8a-24d0328b7229)![image](https://github.com/user-attachments/assets/99fc1345-e8a8-4f0b-98b2-a724204edcd0)# JobBot-Automated-Job-Application-System
+# JobBot-Automated-Job-Application-System
 A Python-based automated system for applying to job listings using web scraping and eligibility parsing.
 # Automated Job Application System Using Web Scraping and Eligibility Parsing
 
