@@ -31,7 +31,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
    cd automated-job-application-system
 2. ```bash
    pip install -r requirements.txt
-3.```bash
+3. ```bash
    python main.py
 
 
