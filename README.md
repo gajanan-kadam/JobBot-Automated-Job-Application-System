@@ -1,4 +1,4 @@
-# JobBot-Automated-Job-Application-System
+![image](https://github.com/user-attachments/assets/e5a5db72-1591-4442-8d8a-24d0328b7229)![image](https://github.com/user-attachments/assets/99fc1345-e8a8-4f0b-98b2-a724204edcd0)# JobBot-Automated-Job-Application-System
 A Python-based automated system for applying to job listings using web scraping and eligibility parsing.
 # Automated Job Application System Using Web Scraping and Eligibility Parsing
 
@@ -58,13 +58,14 @@ Developed a Python-based automated system that scrapes job listings, parses job 
 
 ### Step 5: Add Your Code
 
-- **main.py**: Write your main script where the web scraping, eligibility checking, and application logic reside.
+- **main.py**: Main script for specific org where the web scraping, eligibility checking, and application logic reside.
 - **requirements.txt**: List the Python libraries your project depends on. For example:
     ```
     beautifulsoup4
     requests
-    selenium
-    pandas
+    playwright
+    Requests
+    Python
     ```
 
 ### Step 6: Commit and Push Your Changes
