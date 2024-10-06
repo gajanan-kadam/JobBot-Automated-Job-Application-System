@@ -56,17 +56,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
    - Application Logging Module
    - File Handling
 
-### Step 5: Add Your Code
 
-- **main.py**: Main script for specific org where the web scraping, eligibility checking, and application logic reside.
-- **requirements.txt**: List the Python libraries your project depends on. For example:
-    ```
-    beautifulsoup4
-    requests
-    playwright
-    Requests
-    Python
-    ```
 
 
 
