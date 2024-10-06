@@ -27,8 +27,8 @@ Developed a Python-based automated system that scrapes job listings, parses job 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/automated-job-application-system.git
-   cd automated-job-application-system
+   git clone https://github.com/gajanan-kadam/JobBot-Automated-Job-Application-System.git
+   cd JobBot-Automated-Job-Application-System
 2. ```bash
    pip install -r requirements.txt
 3. ```bash
