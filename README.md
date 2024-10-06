@@ -50,7 +50,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
      ![image](https://github.com/user-attachments/assets/ba30c899-8a48-4fa4-be27-5e58ef544c0c)
 
 
-2. **Architecture Diagram**: This diagram should show the system architecture, including components like:
+2. **Architecture Diagram**:
    - Web Scraping Module
    - Eligibility Parsing Module
    - Application Logging Module
@@ -68,10 +68,5 @@ Developed a Python-based automated system that scrapes job listings, parses job 
     Python
     ```
 
-### Step 6: Commit and Push Your Changes
-
-1. **Add Files to Your Repository**:
-   ```bash
-   git add .
 
 
