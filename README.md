@@ -34,4 +34,41 @@ Developed a Python-based automated system that scrapes job listings, parses job 
 3. ```bash
    python main.py
 
+### Step 4: Create Diagrams and Flowcharts
+
+1. **Flowchart**: Create a flowchart that illustrates the workflow of your application. You can use tools like [Lucidchart](https://www.lucidchart.com/), [draw.io](https://app.diagrams.net/), or [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) to create flowcharts. Here’s a simple outline of the flow:
+
+   - **Start**
+   - **Fetch Job Listings**
+   - **For Each Job**:
+     - **Parse Job Description**
+     - **Check Eligibility**
+       - **If Eligible**: Apply for Job
+       - **Log Application Status**
+     - **If Not Eligible**: Log Reason
+   - **End**
+
+2. **Architecture Diagram**: This diagram should show the system architecture, including components like:
+   - Web Scraping Module
+   - Eligibility Parsing Module
+   - Application Logging Module
+   - File Handling
+
+### Step 5: Add Your Code
+
+- **main.py**: Write your main script where the web scraping, eligibility checking, and application logic reside.
+- **requirements.txt**: List the Python libraries your project depends on. For example:
+    ```
+    beautifulsoup4
+    requests
+    selenium
+    pandas
+    ```
+
+### Step 6: Commit and Push Your Changes
+
+1. **Add Files to Your Repository**:
+   ```bash
+   git add .
+
 
