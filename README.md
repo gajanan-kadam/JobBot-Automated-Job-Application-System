@@ -36,7 +36,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
 
 ### Step 4: Create Diagrams and Flowcharts
 
-1. **Flowchart**: Create a flowchart that illustrates the workflow of your application. You can use tools like [Lucidchart](https://www.lucidchart.com/), [draw.io](https://app.diagrams.net/), or [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) to create flowcharts. Here’s a simple outline of the flow:
+1. **Flowchart**: 
 
    - **Start**
    - **Fetch Job Listings**
@@ -47,6 +47,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
        - **Log Application Status**
      - **If Not Eligible**: Log Reason
    - **End**
+   ![image](https://github.com/user-attachments/assets/8a7ad45e-c37c-4b59-b644-566d74b767f8)
 
 2. **Architecture Diagram**: This diagram should show the system architecture, including components like:
    - Web Scraping Module
