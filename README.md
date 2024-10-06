@@ -29,4 +29,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
    ```bash
    git clone https://github.com/yourusername/automated-job-application-system.git
    cd automated-job-application-system
+2. pip install -r requirements.txt
+3. python main.py
+
 
