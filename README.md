@@ -34,7 +34,7 @@ Developed a Python-based automated system that scrapes job listings, parses job 
 3. ```bash
    python main.py
 
-### Step 4: Create Diagrams and Flowcharts
+### Flowcharts
 
 1. **Flowchart**: 
 
